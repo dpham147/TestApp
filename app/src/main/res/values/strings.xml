@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="button_text">Press Me!</string>
+    <string name="dialogTitle">Kill Me?</string>
+    <string name="dialogMessage">Do you wish to kill me?</string>
+    <string name="killed">Gahhhh</string>
+</resources>
